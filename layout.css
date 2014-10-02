@@ -1,0 +1,16 @@
+html, body {
+    background-color: #353535;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    color: #eee;
+    overflow: hidden;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
